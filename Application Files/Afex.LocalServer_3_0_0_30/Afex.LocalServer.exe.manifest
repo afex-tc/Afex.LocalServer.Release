@@ -51,7 +51,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>yxIv+Thr1XzEaX312bnP6DVU88KVRxA/tnzUHBpX32E=</dsig:DigestValue>
+        <dsig:DigestValue>fNmkPpW/JUhzc2nz/aQMt6yxmbn4J1MNrHw3gcBuUAE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -259,13 +259,13 @@
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="Afex.LocalServer.exe.config" size="1253">
+  <file name="Afex.LocalServer.exe.config" size="1435">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>rOTLBsbEl68jV2iM7Wy+Qk8I3B+2XLxNRP8qbyzsJgA=</dsig:DigestValue>
+      <dsig:DigestValue>NymN2+G+jDlBhE/JSkeSTQqG1xQ+YwNPr01daU36bto=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Resources\Icono.ico" size="14782">

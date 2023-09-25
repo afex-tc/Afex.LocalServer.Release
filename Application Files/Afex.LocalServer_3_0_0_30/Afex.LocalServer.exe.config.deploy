@@ -23,4 +23,7 @@
       </dependentAssembly>
     </assemblyBinding>
   </runtime>
+  <appSettings>
+	<add key="URL_DEPLOY_MANIFEST_LOCALSERVER" value="https://github.com/afex-tc/Afex.LocalServer.Release/blob/main/Afex.LocalServer.application" />
+  </appSettings>
 </configuration>
