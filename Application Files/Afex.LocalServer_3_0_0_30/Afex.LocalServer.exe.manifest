@@ -259,13 +259,13 @@
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="Afex.LocalServer.exe.config" size="1435">
+  <file name="Afex.LocalServer.exe.config" size="2278">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>NymN2+G+jDlBhE/JSkeSTQqG1xQ+YwNPr01daU36bto=</dsig:DigestValue>
+      <dsig:DigestValue>1MhP/XC9M3r0PYzJvgXUoDKd0mYPpjWj1rGGN6kqHS8=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Resources\Icono.ico" size="14782">
